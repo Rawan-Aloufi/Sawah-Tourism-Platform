@@ -1,4 +1,4 @@
-# Sawaah Tourism Platform
+# Sawah Tourism Platform
 
 Sawaah is a tourism platform developed using Laravel that helps users explore tourist destinations, request customized trips, and receive personalized travel recommendations.
 
@@ -60,31 +60,3 @@ routes/
 ### Tourist Destinations
 ![Destinations](screenshots/destinations.png)
 
-## Installation
-
-Clone the repository:
-git clone https://github.com/Rawan-Aloufi/Sawaah-Tourism-Platform.git
-
-Install dependencies:
-composer install
-npm install
-
-Create environment file:
-cp .env.example .env
-
-Generate application key:
-php artisan key:generate
-
-Run migrations:
-php artisan migrate
-
-Start the development server:
-php artisan serve
-
-## Authors
-
-Rawan Aloufi
-
-## License
-
-This project was developed for training and educational purposes.
