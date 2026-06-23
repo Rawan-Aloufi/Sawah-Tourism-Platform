@@ -49,14 +49,17 @@ routes/
 ## Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.jpg)
 
-### Trip Request Page
-![Trip Request](screenshots/request.png)
+### Home Page
+![Home](Screenshots/home.jpg)
 
-### Recommendations Page
-![Recommendations](screenshots/recommendations.png)
+### Recommendations
+![Recommendations](Screenshots/recommendations.jpg)
 
-### Tourist Destinations
-![Destinations](screenshots/destinations.png)
+### Sign Up
+![Sign Up](Screenshots/signup.jpg)
+
+### Trip Request
+![Trip Request](Screenshots/trip-request.jpg)
 
